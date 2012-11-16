@@ -1,4 +1,4 @@
 program hello
-    implicit none
+    implicit none ! Testing 
     print *,"ciao a tutti"
 end program hello
